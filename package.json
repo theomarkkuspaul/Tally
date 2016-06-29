@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/theomarkkuspaul/Tally/issues"
   },
-  "homepage": "https://github.com/theomarkkuspaul/Tally#readme"
+  "homepage": "https://github.com/theomarkkuspaul/Tally#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
