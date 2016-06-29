@@ -1,0 +1,34 @@
+{
+  "games":[
+    {
+      "date": "2016-01-28",
+      "played": "Oakland Institute",
+      "ourScore": 11,
+      "opponentsScore": 10
+    },
+    {
+      "date": "2016-06-05",
+      "played": "Fortuna Technical School",
+      "ourScore": 22,
+      "opponentsScore": 20
+    },
+    {
+      "date": "2016-06-16",
+      "played": "Bear Valley College",
+      "ourScore": 33,
+      "opponentsScore": 30
+    },
+    {
+      "date": "2016-11-10",
+      "played": "Faraday School",
+      "ourScore": 44,
+      "opponentsScore": 40
+    },
+    {
+      "date": "2016-12-31",
+      "played": "Marble Hills University",
+      "ourScore": 55,
+      "opponentsScore": 50
+    }
+  ]
+}
