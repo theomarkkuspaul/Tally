@@ -1,7 +1,6 @@
 var express = require('express'),
     bodyParser = require('body-parser'),
     logger = require('morgan'),
-    jsonFile = require('jsonfile'),
     fs = require('fs');
 
 var app = express();
@@ -54,7 +53,7 @@ function morganLogger(req, res, next) {
 }
 
 function addGame(filePath, newGame, callback){
-  // console.log(data);
+
   read(filePath, function(err, data){
     if (err){
       console.log(err);
